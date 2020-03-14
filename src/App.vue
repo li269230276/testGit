@@ -2,11 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
 88888889999999111111 dev分支1111111122222233333
-<<<<<<< HEAD
 test commit1111
-=======
-test commit
->>>>>>> beb3aeb2b1dbc2243b52a67439958b2ccbee60ec
     <HelloWorld/>
   </div>
 </template>
